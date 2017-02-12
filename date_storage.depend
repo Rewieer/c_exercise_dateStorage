@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486880427 source:c:\users\asus\documents\programmation\c\date_storage\main.c
+	<stdio.h>
+	<stdlib.h>
+
